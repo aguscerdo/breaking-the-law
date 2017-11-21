@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking The Law", "Assembly-CSharp.csproj", "{4470D7AE-F269-CF8E-D697-CD7BC8957353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking The Law", "Assembly-CSharp-firstpass.csproj", "{AFC51E32-8E92-29D1-34BD-0A9FD90EE181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking The Law", "Assembly-CSharp-Editor-firstpass.csproj", "{58497CFD-EC28-ED65-BA25-89B0941BE075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4470D7AE-F269-CF8E-D697-CD7BC8957353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4470D7AE-F269-CF8E-D697-CD7BC8957353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4470D7AE-F269-CF8E-D697-CD7BC8957353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4470D7AE-F269-CF8E-D697-CD7BC8957353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC51E32-8E92-29D1-34BD-0A9FD90EE181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC51E32-8E92-29D1-34BD-0A9FD90EE181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC51E32-8E92-29D1-34BD-0A9FD90EE181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC51E32-8E92-29D1-34BD-0A9FD90EE181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58497CFD-EC28-ED65-BA25-89B0941BE075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58497CFD-EC28-ED65-BA25-89B0941BE075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58497CFD-EC28-ED65-BA25-89B0941BE075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58497CFD-EC28-ED65-BA25-89B0941BE075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
